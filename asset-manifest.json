@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/productlisting-tag/static/css/main.5a12124d.chunk.css",
+    "main.js": "/productlisting-tag/static/js/main.6b69dd25.chunk.js",
+    "main.js.map": "/productlisting-tag/static/js/main.6b69dd25.chunk.js.map",
+    "runtime-main.js": "/productlisting-tag/static/js/runtime-main.9fba47f6.js",
+    "runtime-main.js.map": "/productlisting-tag/static/js/runtime-main.9fba47f6.js.map",
+    "static/js/2.32b8722d.chunk.js": "/productlisting-tag/static/js/2.32b8722d.chunk.js",
+    "static/js/2.32b8722d.chunk.js.map": "/productlisting-tag/static/js/2.32b8722d.chunk.js.map",
+    "static/js/3.4e0088d9.chunk.js": "/productlisting-tag/static/js/3.4e0088d9.chunk.js",
+    "static/js/3.4e0088d9.chunk.js.map": "/productlisting-tag/static/js/3.4e0088d9.chunk.js.map",
+    "index.html": "/productlisting-tag/index.html",
+    "static/css/main.5a12124d.chunk.css.map": "/productlisting-tag/static/css/main.5a12124d.chunk.css.map",
+    "static/js/2.32b8722d.chunk.js.LICENSE.txt": "/productlisting-tag/static/js/2.32b8722d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fba47f6.js",
+    "static/js/2.32b8722d.chunk.js",
+    "static/css/main.5a12124d.chunk.css",
+    "static/js/main.6b69dd25.chunk.js"
+  ]
+}
